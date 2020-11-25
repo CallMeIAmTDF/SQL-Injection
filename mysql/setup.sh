@@ -1,0 +1,1 @@
+mysql -u root -p'yo}@CyRWnWA(9/##fgIUJ' main < /main.sql
